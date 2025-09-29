@@ -4,6 +4,8 @@ WebGL published here (EDIT IT!) https://TuckerBeard.github.io/UnityBoilerplateTu
 
 # Setup Steps:
 
+hello
+
 - [x] I understand FERPA laws. If I make the repository public, I will remove any student information, or I am waiving the requirement to remove student information. Otherwise, I am making the repository private;
 - [x] I have forked the repository to my own GitHub account;
 - [x] I have edited the README.md file to include my own information on the url for the web build;
